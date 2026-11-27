@@ -18,4 +18,4 @@ I really get clingy when comes to learn new things i wont release until i learn 
 
 What i know how to use:
 
-![CSS icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg" alt="CSS icon" width="32">
