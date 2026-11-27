@@ -16,6 +16,8 @@ I really get clingy when comes to learn new things i wont release until i learn 
 
 ![Raccoon](Images/Racoon.gif)
 
+What i know how to use:
 
-       
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg" />
           
