@@ -18,6 +18,8 @@ I really get clingy when comes to learn new things i wont release until i learn 
 
 What i know how to use for now:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg" alt="CSS icon" width="32"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" alt="Linux Mint icon" width="32"> <i class="devicon-archlinux-plain" style="font-size: 32px;"></i>
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg" alt="CSS icon" width="32"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" alt="Linux Mint icon" width="32"> <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"
+  alt="Arch Linux icon"
+  width="32"
+>
