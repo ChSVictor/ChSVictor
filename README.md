@@ -1,3 +1,6 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
 Hi there. my name is **Victor Chaves**
 
 Currently i am an **Student** studying **IT**.
@@ -14,5 +17,5 @@ I really get clingy when comes to learn new things i wont release until i learn 
 ![Raccoon](Images/Racoon.gif)
 
 
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+       
           
