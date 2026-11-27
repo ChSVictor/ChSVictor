@@ -23,7 +23,7 @@ B A C K  E N D :
 
 S T I L L  --  L E A R N I N G :
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="24">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="24"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="24">
 
 D I S T R O S :
 
