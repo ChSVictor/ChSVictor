@@ -16,9 +16,14 @@ I really get clingy when comes to learn new things i wont release until i learn 
 
 ![Raccoon](Images/Racoon.gif)
 
-Front End:
+F R O N T  E N D :
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg" alt="CSS icon" width="32"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="32"> 
+
+B A C K  E N D :
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="24">
+
 
 D I S T R O S :
 
