@@ -16,6 +16,7 @@ I really get clingy when comes to learn new things i wont release until i learn 
 
 ![Raccoon](Images/Racoon.gif)
 
-What i know how to use:
+What i know how to use for now:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg" alt="CSS icon" width="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg" alt="CSS icon" width="32"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" alt="Linux Mint icon" width="32">
+
