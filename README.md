@@ -5,12 +5,7 @@ Hi there. my name is **Victor Chaves**
 
 Currently i am an **Student** studying **IT**.
 
-**SQL** & **HTML** Is my best area.
-
-:sparkles:
-I really get clingy when comes to learn new things i wont release until i learn everything i need to actually do something. :sparkles:
-
-![Raccoon](Images/Racoon.gif)
+I have knowlage how to use : 
 
 F R O N T  E N D :
 
@@ -24,6 +19,15 @@ B A C K  E N D :
 S T I L L  --  L E A R N I N G :
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="24"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="24">
+
+
+**SQL** & **HTML** Is my best area.
+
+:sparkles:
+I really get clingy when comes to learn new things i wont release until i learn everything i need to actually do something. :sparkles:
+
+![Raccoon](Images/Racoon.gif)
+
 
 D I S T R O S :
 
